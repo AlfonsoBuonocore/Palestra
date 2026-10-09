@@ -1,0 +1,13 @@
+{
+  "name": "La mia scheda palestra",
+  "short_name": "Scheda",
+  "description": "Scheda di allenamento personale su tre giorni",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101712",
+  "theme_color": "#101712",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
